@@ -55,8 +55,8 @@ A simple RESTful API for a mini-blog platform built with Node.js, Express, and M
 
 ## Example .env
 ```
-MONGODB_URI=mongodb://localhost:27017/miniblog
-PORT=3000
+MONGODB_URI="your db connection"
+PORT="your port connection"
 ```
 
 ## Notes
